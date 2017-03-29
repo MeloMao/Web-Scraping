@@ -18,3 +18,4 @@ while(True): #一直进行直到海枯石烂
             url_queue.put(next_url)
     else:
         break
+#It's mother of all programs
