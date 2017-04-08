@@ -1,4 +1,5 @@
 #coding=utf-8
+#my first real scraping program.
 import urllib2
 import itertools
 import re
